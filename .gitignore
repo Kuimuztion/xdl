@@ -1,0 +1,15 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 敏感信息与下载产物
+cookies.txt
+links.txt
+downloads/
+
+# 编辑器与环境
+.directory
+.vscode/
+.idea/
+*~
